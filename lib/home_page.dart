@@ -195,7 +195,7 @@ class _HomePageState extends State<HomePage> {
 
   /*game over */
   bool gameOver() {
-    /*gae is pver when the snake runs into itself 
+    /*game is over when the snake runs into itself 
     this occurs when there is a duplicate position in the snakePos list
     
     this list is the body of the snake (no head)*/
